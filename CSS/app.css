@@ -1,0 +1,4 @@
+body {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.462), rgba(0, 0, 0, 0.38)), url(../images/dollar.jpg) no-repeat center /cover;
+}
